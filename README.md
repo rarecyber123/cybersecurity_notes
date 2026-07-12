@@ -7,7 +7,7 @@ Hands on cybersecurity course . My learning journey in ethical hacking and netwo
 3. **Test your knowledge**: Objective tytpe questions .
 4. **Commands cheatsheet**: All important commands in one place .
 
-###Legal Disclaimer
+ ###Legal Disclaimer
 This repository is created strictly for educational pourposes.All labs are perfomed in controlled environments. I do not support or promot illegal hacking activities.
-### Connect 
+ ### Connect 
 Found this helpful? Star the repo . 

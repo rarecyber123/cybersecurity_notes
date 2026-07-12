@@ -1,6 +1,7 @@
 # cybersecurity_notes
 Hands on cybersecurity course . My learning journey in ethical hacking and network defense . For educational purpose only .
-#3# What you will find here
+
+ ### What you will find here
 1. **Handwritten notes**: Converted to markdown for easy reading .
 2. **AI Diagrams**: Complex topics explaineed visually
 3. **Test your knowledge**: Objective tytpe questions .

@@ -14,17 +14,15 @@ This repository contains my personal notes from the Cisco Junior Cybersecurity A
 - Malware
 - Cryptography
 - Risk Management
-- Incident Response
 
 ## Repository Structure
 
 Intro-to-Cybersecurity/
 Networking-Basics/
-Endpoint-Security/
 Images/
-Notes-PDF/
+Notes/
 
- ### Legal Disclaimer
+ ## Legal Disclaimer
 This repository is created strictly for educational pourposes. I do not support or promot illegal hacking activities.
 
 ## Purpose

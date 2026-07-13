@@ -1,13 +1,38 @@
-# cybersecurity_notes
-Hands on cybersecurity course . My learning journey in ethical hacking and network defense . For educational purpose only .
+# Cisco Cybersecurity Notes
 
- ### What you will find here
-1. **Handwritten notes**: Converted to markdown for easy reading .
-2. **AI Diagrams**: Complex topics explaineed visually
-3. **Test your knowledge**: Objective type questions .
-4. **Commands cheatsheet**: All important commands in one place .
+Welcome!
+
+This repository contains my personal notes from the Cisco Junior Cybersecurity Analyst Career Path.
+
+## Topics Covered
+
+- Introduction to Cybersecurity
+- Networking Basics
+- Operating Systems
+- Threats and Attacks
+- CIA Triad
+- Malware
+- Cryptography
+- Risk Management
+- Incident Response
+
+## Repository Structure
+
+Intro-to-Cybersecurity/
+Networking-Basics/
+Endpoint-Security/
+Images/
+Notes-PDF/
 
  ### Legal Disclaimer
-This repository is created strictly for educational pourposes. All labs are perfomed in controlled environments. I do not support or promot illegal hacking activities.
- ### Connect 
-Found this helpful? Star the repo . 
+This repository is created strictly for educational pourposes. I do not support or promot illegal hacking activities.
+
+## Purpose
+
+These notes are created for learning, revision, and helping other cybersecurity students.
+
+Happy Learning!
+
+
+
+

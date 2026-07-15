@@ -1,1 +1,22 @@
+ ### Types of Attacks
+
+1. 🧬 Virus        
+Copies itself by attaching to a file/program 
+2.  🐛 Worm     
+ Copies itself independently, no host needed  
+3.  🐴 Trojan Horse 
+ Disguised as a legit program, but harmful    
+4.  🕵️ Rootkit     
+ Hidden, high-level (privileged) access       
+5. 👁️ Spyware     
+ Secretly monitors & steals your data         
+6. 📢 Adware    
+Shows unwanted ads without consent           
+7. 🤖 Bot       
+Waits for hacker's remote commands            
+8. 🔒 Ransomware    
+Locks data/system until ransom is paid       
+9. 😱 Scareware     
+Fake warnings trick you into installing malware
+
 

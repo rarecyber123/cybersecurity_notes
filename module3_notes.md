@@ -41,3 +41,18 @@ $ destroy --method physical
 $ define encryption
 > "Converting data into a form that only an authorized person
 >  can read/decrypt, using a secret key or password"
+
+
+🔑 3.3 Password Security
+
+
++ Strong Password Rules:
+    ✔ 10+ characters long
+    ✔ Mix of letters, numbers, special characters (!@#$%^&*)
+    ✘ Avoid dictionary words
+    ✘ Avoid names / common info
+    ✘ Avoid common misspellings
+
++ Password Manager
+    Stores & encrypts all your passwords
+    Protected by ONE master password 🔐

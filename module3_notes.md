@@ -12,10 +12,13 @@ Device_Protection_Checklist:
   - OS_and_Software: "Update regularly (patches close vulnerabilities)"
   - Bluetooth:
       status: "OFF when not in use"
+    
       reason: "Prevents eavesdropping, remote access, malware spread"
   - Public_WiFi:
       risk: "Data can be intercepted"
+    
       solution: "Use a VPN (encrypts your connection)"
   - Wireless_Router:
       mistake: "Hiding SSID or changing default SSID is NOT enough"
+    
       fix: "Use strong encryption + strong password"

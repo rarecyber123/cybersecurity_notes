@@ -4,9 +4,7 @@
 
       🔐 Module 3: Protecting Your Data and Privacy
 
- ## 💻 3.1 Protecting Your Devices
-
- # Device_Protection_Checklist:
+ # 💻 3.1 Device_Protection_Checklist:
   - Firewall: "Enable it — controls incoming/outgoing traffic"
   - Antivirus/Antispyware: "Keep installed & updated"
   - OS_and_Software: "Update regularly (patches close vulnerabilities)"
@@ -24,7 +22,7 @@
       fix: "Use strong encryption + strong password"
 
 
- 💾 3.2 Data Maintenance
+# 💾 3.2 Data Maintenance
 
 
  $ backup --schedule regular
@@ -43,7 +41,7 @@ $ define encryption
 >  can read/decrypt, using a secret key or password"
 
 
-🔑 3.3 Password Security
+# 🔑 3.3 Password Security
 
 
 + Strong Password Rules:

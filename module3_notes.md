@@ -59,3 +59,19 @@ $ define encryption
 
 + Password Manager + Stores & encrypts all your passwords
     Protected by ONE master password 🔐
+
+
+# 🕵️ 3.4 Online Privacy
+
+
+Private_Browsing:
+  aka: "Incognito Mode"
+  effects:
+    - "Cookies disabled"
+    - "Browsing history NOT saved"
+
+Anti-Spyware_Tools:
+  purpose: "Block unwanted pop-ups & stop activity tracking"
+
+Reminder:
+  - "Check privacy settings on email & browsers regularly"

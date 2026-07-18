@@ -2,11 +2,11 @@
 📘 Cisco Introduction to Cybersecurity — Study Notes
 
 
-🔐 Module 3: Protecting Your Data and Privacy
+      🔐 Module 3: Protecting Your Data and Privacy
 
-💻 3.1 Protecting Your Devices
+ ## 💻 3.1 Protecting Your Devices
 
-Device_Protection_Checklist:
+ # Device_Protection_Checklist:
   - Firewall: "Enable it — controls incoming/outgoing traffic"
   - Antivirus/Antispyware: "Keep installed & updated"
   - OS_and_Software: "Update regularly (patches close vulnerabilities)"
@@ -47,12 +47,17 @@ $ define encryption
 
 
 + Strong Password Rules:
+  
     ✔ 10+ characters long
+  
     ✔ Mix of letters, numbers, special characters (!@#$%^&*)
+  
     ✘ Avoid dictionary words
+  
     ✘ Avoid names / common info
+  
     ✘ Avoid common misspellings
+  
 
-+ Password Manager
-    Stores & encrypts all your passwords
++ Password Manager + Stores & encrypts all your passwords
     Protected by ONE master password 🔐

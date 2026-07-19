@@ -76,7 +76,6 @@ Hacker wo banda hai jo computer system ke kamzor points dhoondta hai. Har hacker
 | **State-Sponsored** | Country ki government ke liye kaam karte. Dusre mulk pe attack |
 | **Blue Hat** | Company bahir se bulati hai software launch se pehle bugs dhoondne |
 
-![Types of Hackers](images/hacker-types.png)
 
 ---
 

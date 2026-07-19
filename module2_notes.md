@@ -22,15 +22,20 @@ Fake warnings trick you into installing malware
   🎣 2.2 Methods of Infiltration 
 
 Social_Engineering:
-  definition: "Tricking people into revealing confidential info"
+
+  definition:
+    - "Tricking people into revealing confidential info"
   types:
+  
     - Phishing: "Fake emails/websites used to steal info"
     - Spear_Phishing: "Phishing targeted at ONE specific person/org"
 
 MitM_Attacks:
-  Man-in-the-Middle (MitM):
+  Man-in-the-Middle (MitM): 
+  
     desc: "Attacker secretly intercepts communication between two devices"
   Man-in-the-Mobile (MitMo):
+  
     desc: "MitM but targets mobile devices, can steal 2FA/SMS codes"
     example: "ZeuS malware"
 

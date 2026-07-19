@@ -43,10 +43,14 @@ Hacker wo banda hai jo computer system ke kamzor points dhoondta hai. Har hacker
 
 ### 2. Black Hat Hackers ❌ - "Bad Guys"
 
-**Kaam**: Bina permission system torhna, data chori karna  
-**Goal**: Paise banana, nuksaan pohnchana  
-**Legal**: 100% Illegal. Jail + Fine dono  
-**Example**: Credit card data chori kar ke dark web pe bechna  
+**Kaam**:  
+  Bina permission system torhna, data chori karna  
+**Goal**:
+  Paise banana, nuksaan pohnchana  
+**Legal**:
+  100% Illegal. Jail + Fine dono  
+**Example**:
+  Credit card data chori kar ke dark web pe bechna  
 
 **FIA Cyber Crime** Pakistan mein in ko pakarta hai.
 

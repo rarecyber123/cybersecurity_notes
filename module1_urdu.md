@@ -23,13 +23,17 @@ Hacker wo banda hai jo computer system ke kamzor points dhoondta hai. Har hacker
 
 ### 1. White Hat Hackers ✅ - "Good Guys"
 
-  **Kaam**:  
+ **Kaam**:  
+ 
 > Company khud hire karti hai apna system check karwane ke liye  
  **Goal**:
+> 
 > Security strong karna  
  **Legal**:
+> 
 > 100% Legal. Permission hoti hai  
 **Job Title**:
+> 
 >  Ethical Hacker, Penetration Tester, Security Analyst  
 
  **Real Example**: 

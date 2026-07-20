@@ -9,3 +9,16 @@ Kisi bhi organization me sirf antivirus kaafi nahi hota. Multiple security layer
 Definition
 
 > Firewall ek security device (hardware ya software) hai jo network me aane aur jane wale traffic ko monitor aur filter karti hai.
+
+
+### Ye predefined security rules follow karti hai.
+
+Kaam
+Unauthorized access block karna
+Allowed traffic ko allow karna
+Malicious connections rokna
+Example
+
+Agar hacker kisi company ke server par attack kare:
+
+➡ Firewall us connection ko deny kar sakti hai.

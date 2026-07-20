@@ -3,22 +3,10 @@
 
 ## 4.1 Cybersecurity Devices and Technologies
 
-Kisi bhi organization me sirf antivirus kaafi nahi hota. Multiple security layers mil kar protection deti hain. Is concept ko Defense in Depth (Layered Security) kehte hain.
+Firewall ek security device ya software hota hai jo network ke andar aane aur bahar jane wale traffic ko check karta hai.
 
-### 1. Firewall
-Definition
+### Main Kaam
+- Safe traffic ko allow karna.
+- Suspicious traffic ko block karna.
+- Unauthorized access rokna.
 
-> Firewall ek security device (hardware ya software) hai jo network me aane aur jane wale traffic ko monitor aur filter karti hai.
-
-
-### Ye predefined security rules follow karti hai.
-
-Kaam
-Unauthorized access block karna
-Allowed traffic ko allow karna
-Malicious connections rokna
-Example
-
-Agar hacker kisi company ke server par attack kare:
-
-➡ Firewall us connection ko deny kar sakti hai.

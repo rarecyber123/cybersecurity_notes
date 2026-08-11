@@ -11,6 +11,7 @@
 
 ## 📊 The Three Dimensions of the McCumber Cube
 
+
 | **Dimension** | **Elements** | **Explanation** |
 | --- | --- | --- |
 | **Security Goals (CIA Triad)** | - Confidentiality<br>- Integrity<br>- Availability | - **Confidentiality**: Prevent unauthorized disclosure of information.<br>- **Integrity**: Ensure data accuracy and reliability.<br>- **Availability**: Guarantee timely access for authorized users. |
@@ -20,7 +21,7 @@
 
 ---
 
-##💡 Insight:  
+##💡Insight:  
 
  - Even the best technology fails if users aren’t trained or policies aren’t enforced.
  - The human factor is often the weakest link 
@@ -30,24 +31,35 @@
 
   ## 🔗 Visual Relationship Summary
   
-Security Goals (What to Protect)
+ ### Security Goals (What to Protect)
 
  ├── Confidentiality
  
  ├── Integrity
  
  └── Availability
- 
-        │
-        ▼
-Information States (Where Protection Is Needed)
+      
+  │
+  
+  ▼
+
+### Information States (Where Protection Is Needed)
+
  ├── Storage (Data at Rest)
+ 
  ├── Processing (Data in Use)
+ 
  └── Transmission (Data in Transit)
-        │
-        ▼
-Safeguards (How Protection Is Applied)
+ 
+  │
+  
+  ▼
+
+### Safeguards (How Protection Is Applied)
+
  ├── Policy & Procedures → Administrative control
+ 
  ├── Technology → Technical control
+ 
  └── Human Factors → Behavioral control
 
